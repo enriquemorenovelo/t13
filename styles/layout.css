@@ -1,0 +1,14 @@
+table {
+  font-family: arial;
+}
+table tfoot {
+  background-color: yellow;
+  font-weight: lighter;
+}
+table thead {
+  background-color: #2cbd62;
+  color: white;
+  font-family: arial;
+  font-weight: bold;
+
+}
